@@ -1,0 +1,20 @@
+<?php
+$string['modulename'] = 'Prova Fácil';
+$string['modulenameplural'] = 'Prova Fácil activities';
+$string['pluginadministration'] = 'Plugin Administration';
+// $string['pluginadministration'] = 'Prova Facil Administration';
+$string['modulename_help'] = 'Esta atividade permite que o aluno faça login no Prova Fácil via SSO e realize suas provas.';
+$string['provafacil:addinstance'] = 'Adicionar uma nova atividade do Prova Fácil';
+$string['provafacil:view'] = 'Visualizar atividade do Prova Fácil';
+$string['pluginname'] = 'Prova Fácil SSO';
+$string['activityname'] = 'Nome da Atividade';
+$string['details'] = 'Detalhes da Prova';
+$string['availability_start'] = 'Data de Início da Disponibilidade';
+$string['availability_end'] = 'Data de Fim da Disponibilidade';
+$string['confirmation_title'] = 'Confirmação de Acesso à Prova';
+$string['continuar'] = 'Continuar';
+$string['cancelar'] = 'Cancelar';
+$string['details'] = 'Details';  // Detalhes
+$string['availability_start'] = 'Availability start';  // Início da Disponibilidade
+$string['availability_end'] = 'Availability end';  // Fim da Disponibilidade
+// $string['pluginadministration'] = 'Plugin Administration';
